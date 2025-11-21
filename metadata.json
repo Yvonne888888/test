@@ -1,0 +1,7 @@
+{
+  "name": "ClassGather - 班级聚会助手",
+  "description": "全中文、零代码班级聚会管理工具。支持活动发布、报名、签到、照片墙及留言功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
